@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/UI/WB_HealthBar.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/UI/ScoreBar.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/UI/WB_ScoreBar.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Blueprints/BP_Healthpack.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Meshes/f21f6828dbc04ed0882bf17ce27501a3.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Meshes/object_0.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/N_00f8252c2fa8485287a74ce259865b2f_healthpackFINAL_Normal_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/R_4de0ab4be7884fd791d2bfb0a44886b1_healthpackFINAL_Occlusion_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/R_93f59a3f969f42afb3af30a4e2124812_healthpackFINAL_Roughness_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/R_542bd3d1b20c421b8e14495a97244e99_healthpackFINAL_Metallic_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/RGB_7a9611add8cc4db9bd7df4a8a885605a_healthpackFINAL_Emission_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/RGB_7ec2435dec254e998272ff487f5678c3_healthpackFINAL_Albedo_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/Healthpack.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Textures/N_00f8252c2fa8485287a74ce259865b2f_healthpackFINAL_Normal_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Textures/R_4de0ab4be7884fd791d2bfb0a44886b1_healthpackFINAL_Occlusion_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Textures/R_542bd3d1b20c421b8e14495a97244e99_healthpackFINAL_Metallic_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Textures/R_93f59a3f969f42afb3af30a4e2124812_healthpackFINAL_Roughness_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Textures/RGB_7a9611add8cc4db9bd7df4a8a885605a_healthpackFINAL_Emission_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Textures/RGB_7ec2435dec254e998272ff487f5678c3_healthpackFINAL_Albedo_tga.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/HealthMaterial/Materials/HealthMaterial.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Materials/MI_2.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"J:/OneDrive - University of Illinois - Urbana/CS 415/MP1 5.2/Content/InfiniteMatrix/Meshes/HealthIcon.uasset"
+			]
+		}
+	]
+}
